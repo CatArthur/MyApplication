@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toastTrue">Hello world</string>
+    <string name="toastFalse">Hello world</string>
+    <string name="btTrue">Hello world</string>
+    <string name="btFalse">Hello world</string>
+    <string name="question">2X2=4?</string>
+</resources>
